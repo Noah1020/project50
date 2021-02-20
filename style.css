@@ -1,0 +1,64 @@
+.alot{
+
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+
+}
+
+
+.header{
+    background-color: black;
+
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+    
+}
+
+.ah1{
+    margin-bottom: 0%;
+    color: white;
+    text-align: center;
+}
+
+
+.ah2{
+    margin-top: 0%;
+    color: white;
+    text-align: center;
+}
+
+
+.camel{
+    background-color: #FFFFFF;
+}
+
+.chameleon{
+
+    background-color: #FFFFFF;
+}
+
+body{
+
+    background-color: #BBBBBB;
+}
+
+.teddy{
+    background-color: white;
+}
+
+.pigeon{
+    background-color: white;
+}
+
+.panda{
+    background-color: white;
+}
+
+.cicada{
+    background-color: white;
+}
